@@ -1,7 +1,7 @@
 # jQueryWebcam
-A jQuery plugin that allows taking pictures with a webcam
+A jQuery plugin that allows taking pictures with a webcam.
 
-It uses an html `video` tag to provide the camera feed and a `canvas` to convert it to a picture
+Inspired by http://www.xarg.org/project/jquery-webcam-plugin/ but this one doesn't use flash. Instead it uses an html `video` tag to provide the camera feed and a `canvas` to convert it to a picture.
 
 NOTE: the plugin only exposes an html `img` element as the result, further manipulation of that image (like posting it to a webserver) has to be done via a user defined callback.
 
