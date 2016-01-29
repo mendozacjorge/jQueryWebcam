@@ -67,7 +67,7 @@
     
   }
 
-  
+  // taken from http://stackoverflow.com/questions/2400935/browser-detection-in-javascript
   function getBrowserInfo() {
     var ua = navigator.userAgent, tem,
             M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
