@@ -99,7 +99,7 @@
   }
 
   function requestCamErrorCallback(error) {
-    alert('Unable to access the camera, make sure it's connected and that it's not being used by another page or application');
+    alert('Unable to access the camera, make sure it\'s connected and that it\'s not being used by another page or application');
     console.error("navigator.getUserMedia error: ", error);
   }
   
