@@ -1,7 +1,10 @@
 # jQueryWebcam
 A jQuery plugin that allows taking pictures with a webcam
 
+NOTE: the plugin only exposes an html `img` element as the result, further manipulation of that image (posting it to a webserver) has to be done via a user defined callback.
+
 Requires jQuery and Jcrop (http://deepliquid.com/content/Jcrop.html)
+
 
 ## Usage
 Imports:
