@@ -39,7 +39,7 @@ Options are provided as an object when calling jqcam
 * `camHeight` height of the camera feed. Default is `240`
 * `processCroppedFunction` a function that will be called when the user clicks the button of the cropped picture. Default just alerts that the function was not specified.
 
-## References:
+## References
 * http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia
 * http://www.html5rocks.com/en/tutorials/getusermedia/intro/
 * https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Taking_still_photos
