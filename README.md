@@ -1,2 +1,2 @@
 # jQueryWebcam
-A jQuery plugin for taking pictures via webcam
+A jQuery plugin that allows taking pictures with a webcam
